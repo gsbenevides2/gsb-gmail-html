@@ -1,7 +1,7 @@
 <h1 align="center">gsb-gmail-html</h1>
 <h5 align="center">An easy way to send personalized and beautiful emails using html.</h5>
 <p align="center">
-<img alt="npm" src="https://img.shields.io/npm/v/gsb-gmail-html?color=FFB86C"/>
+<img alt="npm" src="https://img.shields.io/npm/v/gsb-gmail-html?color=yellow"/>
 <img alt="feito por gsbenevides2" src="https://img.shields.io/badge/made%20with%20%F0%9F%92%9B%20by%20-gsbenevides2-yellow"/>
 </p>
 
